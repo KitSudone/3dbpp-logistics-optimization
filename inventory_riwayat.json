@@ -1,0 +1,507 @@
+{
+    "riwayat_gudang": [
+        {
+            "timestamp": "10-05-2026 23:04:16",
+            "tujuan": "Toko 2",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 20
+        },
+        {
+            "timestamp": "10-05-2026 23:04:16",
+            "tujuan": "Toko 1",
+            "id_barang": "B-002",
+            "nama_barang": "Bal Botol 250ml (Tipis)",
+            "qty": 12
+        },
+        {
+            "timestamp": "10-05-2026 23:53:03",
+            "tujuan": "Toko 2",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 54
+        },
+        {
+            "timestamp": "11-05-2026 21:15:50",
+            "tujuan": "Toko 2",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 54
+        },
+        {
+            "timestamp": "11-05-2026 21:17:30",
+            "tujuan": "Toko 2",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 27
+        },
+        {
+            "timestamp": "18-05-2026 10:05:44",
+            "tujuan": "Toko 2",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 15
+        },
+        {
+            "timestamp": "24-05-2026 22:14:41",
+            "tujuan": "Toko 2",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 100
+        },
+        {
+            "timestamp": "24-05-2026 22:14:41",
+            "tujuan": "Toko 1",
+            "id_barang": "B-002",
+            "nama_barang": "Bal Botol 250ml (Tipis)",
+            "qty": 100
+        },
+        {
+            "timestamp": "24-05-2026 22:20:37",
+            "tujuan": "Toko 2",
+            "id_barang": "B-002",
+            "nama_barang": "Bal Botol 250ml (Tipis)",
+            "qty": 100
+        },
+        {
+            "timestamp": "24-05-2026 22:20:37",
+            "tujuan": "Toko 1",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 3
+        },
+        {
+            "timestamp": "24-05-2026 22:29:38",
+            "tujuan": "Toko 2",
+            "id_barang": "B-004",
+            "nama_barang": "Bal Botol 250ml (Tebal)",
+            "qty": 8
+        },
+        {
+            "timestamp": "24-05-2026 22:29:38",
+            "tujuan": "Toko 2",
+            "id_barang": "B-005",
+            "nama_barang": "Bal Botol 330ml",
+            "qty": 3
+        },
+        {
+            "timestamp": "24-05-2026 22:29:38",
+            "tujuan": "Toko 2",
+            "id_barang": "B-003",
+            "nama_barang": "Bal Botol 250ml (Sedang)",
+            "qty": 10
+        },
+        {
+            "timestamp": "24-05-2026 22:29:38",
+            "tujuan": "Toko 1",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 30
+        },
+        {
+            "timestamp": "24-05-2026 22:29:38",
+            "tujuan": "Toko 1",
+            "id_barang": "B-002",
+            "nama_barang": "Bal Botol 250ml (Tipis)",
+            "qty": 24
+        },
+        {
+            "timestamp": "25-05-2026 13:22:56",
+            "tujuan": "Toko 2",
+            "id_barang": "B-003",
+            "nama_barang": "Bal Botol 250ml (Sedang)",
+            "qty": 10
+        },
+        {
+            "timestamp": "25-05-2026 13:22:56",
+            "tujuan": "Toko 1",
+            "id_barang": "B-002",
+            "nama_barang": "Bal Botol 250ml (Tipis)",
+            "qty": 10
+        },
+        {
+            "timestamp": "25-05-2026 13:22:56",
+            "tujuan": "Toko 1",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 11
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 2",
+            "id_barang": "B-008",
+            "nama_barang": "Bal Botol 1000ml (Besar)",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 2",
+            "id_barang": "B-002",
+            "nama_barang": "Bal Botol 250ml (Tipis)",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 2",
+            "id_barang": "B-004",
+            "nama_barang": "Bal Botol 250ml (Tebal)",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 2",
+            "id_barang": "B-006",
+            "nama_barang": "Bal Botol 1000ml (Kecil)",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 2",
+            "id_barang": "T-002",
+            "nama_barang": "Bal Toples 400ml",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 1",
+            "id_barang": "B-001",
+            "nama_barang": "Bal Botol 600ml",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 1",
+            "id_barang": "B-005",
+            "nama_barang": "Bal Botol 330ml",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 1",
+            "id_barang": "B-007",
+            "nama_barang": "Bal Botol 1000ml (Sedang)",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 1",
+            "id_barang": "T-001",
+            "nama_barang": "Bal Toples 600ml",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 1",
+            "id_barang": "T-003",
+            "nama_barang": "Bal Toples 800ml",
+            "qty": 50
+        },
+        {
+            "timestamp": "25-05-2026 14:31:48",
+            "tujuan": "Toko 1",
+            "id_barang": "B-003",
+            "nama_barang": "Bal Botol 250ml (Sedang)",
+            "qty": 50
+        },
+        {
+            "timestamp": "27-06-2026 12:26:16",
+            "tujuan": "Toko 1",
+            "id_barang": "B-004",
+            "nama_barang": "Bal Botol 250ml (Tebal)",
+            "qty": 100
+        }
+    ],
+    "riwayat_toko": {
+        "Toko 1": [
+            {
+                "timestamp": "10-05-2026 23:04:16",
+                "jenis": "Masuk",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 12
+            },
+            {
+                "timestamp": "10-05-2026 23:05:59",
+                "jenis": "Keluar",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 60
+            },
+            {
+                "timestamp": "11-05-2026 21:29:44",
+                "jenis": "Keluar",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 8
+            },
+            {
+                "timestamp": "18-05-2026 11:18:36",
+                "jenis": "Keluar",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 50
+            },
+            {
+                "timestamp": "24-05-2026 22:14:41",
+                "jenis": "Masuk",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 100
+            },
+            {
+                "timestamp": "24-05-2026 22:20:37",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 3
+            },
+            {
+                "timestamp": "24-05-2026 22:29:38",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 30
+            },
+            {
+                "timestamp": "24-05-2026 22:29:38",
+                "jenis": "Masuk",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 24
+            },
+            {
+                "timestamp": "25-05-2026 12:17:57",
+                "jenis": "Koreksi",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 30
+            },
+            {
+                "timestamp": "25-05-2026 13:22:56",
+                "jenis": "Masuk",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 10
+            },
+            {
+                "timestamp": "25-05-2026 13:22:56",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 11
+            },
+            {
+                "timestamp": "25-05-2026 13:32:12",
+                "jenis": "Keluar",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 81
+            },
+            {
+                "timestamp": "25-05-2026 13:32:43",
+                "jenis": "Koreksi",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 10
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-005",
+                "nama_barang": "Bal Botol 330ml",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-007",
+                "nama_barang": "Bal Botol 1000ml (Sedang)",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "T-001",
+                "nama_barang": "Bal Toples 600ml",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "T-003",
+                "nama_barang": "Bal Toples 800ml",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-003",
+                "nama_barang": "Bal Botol 250ml (Sedang)",
+                "qty": 50
+            },
+            {
+                "timestamp": "27-06-2026 12:26:16",
+                "jenis": "Masuk",
+                "id_barang": "B-004",
+                "nama_barang": "Bal Botol 250ml (Tebal)",
+                "qty": 100
+            },
+            {
+                "timestamp": "27-06-2026 12:27:42",
+                "jenis": "Keluar",
+                "id_barang": "B-004",
+                "nama_barang": "Bal Botol 250ml (Tebal)",
+                "qty": 50
+            },
+            {
+                "timestamp": "27-06-2026 12:28:27",
+                "jenis": "Koreksi",
+                "id_barang": "B-004",
+                "nama_barang": "Bal Botol 250ml (Tebal)",
+                "qty": 7
+            }
+        ],
+        "Toko 2": [
+            {
+                "timestamp": "10-05-2026 23:04:16",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 20
+            },
+            {
+                "timestamp": "10-05-2026 23:49:01",
+                "jenis": "Keluar",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 126
+            },
+            {
+                "timestamp": "10-05-2026 23:53:03",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 54
+            },
+            {
+                "timestamp": "10-05-2026 23:53:17",
+                "jenis": "Keluar",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 60
+            },
+            {
+                "timestamp": "11-05-2026 21:15:50",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 54
+            },
+            {
+                "timestamp": "11-05-2026 21:17:30",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 27
+            },
+            {
+                "timestamp": "11-05-2026 21:28:01",
+                "jenis": "Keluar",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 25
+            },
+            {
+                "timestamp": "18-05-2026 10:05:44",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 15
+            },
+            {
+                "timestamp": "24-05-2026 22:14:41",
+                "jenis": "Masuk",
+                "id_barang": "B-001",
+                "nama_barang": "Bal Botol 600ml",
+                "qty": 100
+            },
+            {
+                "timestamp": "24-05-2026 22:20:37",
+                "jenis": "Masuk",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 100
+            },
+            {
+                "timestamp": "24-05-2026 22:29:38",
+                "jenis": "Masuk",
+                "id_barang": "B-004",
+                "nama_barang": "Bal Botol 250ml (Tebal)",
+                "qty": 8
+            },
+            {
+                "timestamp": "24-05-2026 22:29:38",
+                "jenis": "Masuk",
+                "id_barang": "B-005",
+                "nama_barang": "Bal Botol 330ml",
+                "qty": 3
+            },
+            {
+                "timestamp": "24-05-2026 22:29:38",
+                "jenis": "Masuk",
+                "id_barang": "B-003",
+                "nama_barang": "Bal Botol 250ml (Sedang)",
+                "qty": 10
+            },
+            {
+                "timestamp": "25-05-2026 13:22:56",
+                "jenis": "Masuk",
+                "id_barang": "B-003",
+                "nama_barang": "Bal Botol 250ml (Sedang)",
+                "qty": 10
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-008",
+                "nama_barang": "Bal Botol 1000ml (Besar)",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-002",
+                "nama_barang": "Bal Botol 250ml (Tipis)",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-004",
+                "nama_barang": "Bal Botol 250ml (Tebal)",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "B-006",
+                "nama_barang": "Bal Botol 1000ml (Kecil)",
+                "qty": 50
+            },
+            {
+                "timestamp": "25-05-2026 14:31:48",
+                "jenis": "Masuk",
+                "id_barang": "T-002",
+                "nama_barang": "Bal Toples 400ml",
+                "qty": 50
+            }
+        ]
+    }
+}
